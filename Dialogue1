@@ -1,0 +1,26 @@
+"'Format is, REQ, DIALOUGE, %, ACTIONS.'"
+**SPEECH WITH ^^ AROUND IS WHISPETRING**
+**NUMBERS WITH () AROUND IS A WAIT (seconds)**
+
+
+DialogueName = OldMan
+
+None, "Well hello there!", 100%, Game starts properly
+Complete 3 divine trials, "The time has come... to tell your true reason of life and what you need to do to save this land." 100%, dungeons unlocked
+Finish 8 divine trials, "Please... I have no time left. Evil is taking over this land. (*Disitegrates*)" 100%, becomes open-world + most dungeons unlocked.
+
+
+DialougeName = Harold
+
+Complete 4 dungeons, "Hmmph? Who are you? Whatever." 70%, None
+Unlock Harold, "The light force HA who would beleve that trash?" 20%, None
+Unlock Harold + get speech above, "Oh! Since your bugging me so much i will make an offer for you to stop...a shop! Name? Well... Harold's.... HaroldMarket?" 10%, HaroldMarket
+Unlock HaroldMarket + Free Koloktos, ""^And yes but-^ oh! Its you... the ancient atomaton is free but I cant happen to feel on-edge... I guess thats just me acting up! Anyway, what would you like to purchase" 10%, Koloc Reborn dugeon
+Unlock HaroldMarket, "What would you like today?" 100% Can allow you to purchase something from HaroldMarket
+Unlock HaroldMarket + Dont buy anything, "... (2) you be you..." 100%, None
+Unlock HaroldMarket + Get something, "Thank you!" 100%, gives you item
+Unlock HaroldMarket + end with buyLog "See you again soon!(1) ^More money! Money! Money!!!^" 100%, None
+
+
+
+**THIS IS ALL THE DIALOUGE FOR THIS UPDATE! ANY SPELLING MISTAKES WONT BE IN THE MAIN GAME!**
